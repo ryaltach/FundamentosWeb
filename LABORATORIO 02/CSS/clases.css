@@ -1,0 +1,27 @@
+.tituloprincipal {
+  color: red;
+  font-weight: bold;
+}
+.subtitulo1 {
+  color: blue;
+}
+.parrafogeneral {
+  color: aqua;
+  font-style: italic;
+}
+.subtitulo2 {
+  color: green;
+}
+.parrafocontenido {
+  color: blueviolet;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+.titulolista {
+  color: yellow;
+  font-weight: bold;
+}
+.menu {
+  color: darkblue;
+  font-weight: bold;
+}

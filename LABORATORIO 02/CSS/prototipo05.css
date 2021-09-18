@@ -1,0 +1,17 @@
+.contenedor {
+    background-color: #000000;
+  }
+  header {
+    background-color: #f50a0a;
+  }
+  nav {
+    background-color: #470deb;
+  }
+  section {
+    background-color: #cfb508;
+  }
+aside{
+    background-color: #db14e9;
+}
+  footer {
+    background-color: #11f10a;
